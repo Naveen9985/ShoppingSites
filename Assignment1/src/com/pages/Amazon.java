@@ -16,10 +16,10 @@ public static Integer amazonPrice ;
 public static void openAmazon() throws Exception{
 	
 	driver.get("https://www.amazon.in/");
-	//Waiting for the page to be loaded completely
 	 System.out.println("Opened Amazon");
 	 Reporter.log("Opened Amazon");
-	 
+	 driver.manage().window().maximize();
+	//Waiting for the page to be loaded completely
 	 driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
 	 driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
 	 
@@ -39,7 +39,7 @@ public static void openAmazon() throws Exception{
 	System.out.println(ele1);
 	 amazonPrice = new Integer(ele1);
 	 Aprice= amazonPrice.intValue();
-	System.out.println(Aprice);
+	System.out.println("Iphone Price in Amazon is :" + Aprice);
     Reporter.log("Iphone Price in Amazon is :" + Aprice);
 }
 }

@@ -8,10 +8,10 @@
       <![CDATA[Clicked on search]]>
     </line>
     <line>
-      <![CDATA[The price of the selected product in Amazon is : 47,900]]>
+      <![CDATA[The price of the selected product in Amazon is : 42,900]]>
     </line>
     <line>
-      <![CDATA[Iphone Price in Amazon is :47900]]>
+      <![CDATA[Iphone Price in Amazon is :42900]]>
     </line>
     <line>
       <![CDATA[Opened Filpkart]]>
@@ -29,10 +29,10 @@
       <![CDATA[clicked on the search button]]>
     </line>
     <line>
-      <![CDATA[The price of the selected product in FlipKart is : ₹51,900]]>
+      <![CDATA[The price of the selected product in FlipKart is : ₹53,999]]>
     </line>
     <line>
-      <![CDATA[Iphone price in Flipkart is:51900]]>
+      <![CDATA[Iphone price in Flipkart is:53999]]>
     </line>
     <line>
       <![CDATA[The price of the product is less in Amazon]]>
@@ -41,12 +41,12 @@
       <![CDATA[Application closed]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="60020" started-at="2019-12-30T05:13:22Z" finished-at="2019-12-30T05:14:22Z">
+  <suite name="Default suite" duration-ms="122329" started-at="2020-01-20T05:46:07Z" finished-at="2020-01-20T05:48:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="60020" started-at="2019-12-30T05:13:22Z" finished-at="2019-12-30T05:14:22Z">
+    <test name="Default test" duration-ms="122329" started-at="2020-01-20T05:46:07Z" finished-at="2020-01-20T05:48:09Z">
       <class name="com.TestScripts.Tc_101">
-        <test-method status="PASS" signature="case_101()[pri:0, instance:com.TestScripts.Tc_101@2eafffde]" name="case_101" duration-ms="59998" started-at="2019-12-30T10:43:22Z" finished-at="2019-12-30T10:44:22Z">
+        <test-method status="PASS" signature="case_101()[pri:0, instance:com.TestScripts.Tc_101@2eafffde]" name="case_101" duration-ms="122304" started-at="2020-01-20T11:16:07Z" finished-at="2020-01-20T11:18:09Z">
           <reporter-output>
             <line>
               <![CDATA[Opened Amazon]]>
@@ -55,10 +55,10 @@
               <![CDATA[Clicked on search]]>
             </line>
             <line>
-              <![CDATA[The price of the selected product in Amazon is : 47,900]]>
+              <![CDATA[The price of the selected product in Amazon is : 42,900]]>
             </line>
             <line>
-              <![CDATA[Iphone Price in Amazon is :47900]]>
+              <![CDATA[Iphone Price in Amazon is :42900]]>
             </line>
             <line>
               <![CDATA[Opened Filpkart]]>
@@ -76,10 +76,10 @@
               <![CDATA[clicked on the search button]]>
             </line>
             <line>
-              <![CDATA[The price of the selected product in FlipKart is : ₹51,900]]>
+              <![CDATA[The price of the selected product in FlipKart is : ₹53,999]]>
             </line>
             <line>
-              <![CDATA[Iphone price in Flipkart is:51900]]>
+              <![CDATA[Iphone price in Flipkart is:53999]]>
             </line>
             <line>
               <![CDATA[The price of the product is less in Amazon]]>
